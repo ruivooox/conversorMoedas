@@ -82,45 +82,4 @@ public class Main {
         }
 
 
-
-
-
-
-
-//        if(moedaOrigem.equalsIgnoreCase("Real")){
-//            double libra=0.13;
-//            double dolar=0.18;
-//            double euro=0.16;
-//            System.out.println("Real -> Libra "+ converterValor*libra);
-//            System.out.println("Real -> Dolar "+ converterValor*dolar);
-//            System.out.println("Real -> Euro "+ converterValor*euro);
-//
-//        } else if (moedaOrigem.equalsIgnoreCase("Dolar")) {
-//            double libra=0.75;
-//            double real=5.47;
-//            double euro=0.90;
-//            System.out.println("Dolar -> Libra "+ converterValor*libra);
-//            System.out.println("Dolar -> Euro "+ converterValor*euro);
-//            System.out.println("Dolar -> Real "+ converterValor*real);
-//        } else if (moedaOrigem.equalsIgnoreCase("euro")) {
-//            double libra=0.83;
-//            double real=6.06;
-//            double dolar=0.90;
-//            System.out.println("Euro -> Dolar "+ converterValor*dolar);
-//            System.out.println("Euro -> Libra "+ converterValor*libra);
-//            System.out.println("Euro -> Real "+ converterValor*real);
-//
-//        } else if (moedaOrigem.equalsIgnoreCase("Libra")) {
-//            double euro=1.20;
-//            double real=7.27;
-//            double dolar=1.33;
-//            System.out.println("Libra -> Dolar "+ converterValor*dolar);
-//            System.out.println("Libra -> Euro "+ converterValor*euro);
-//            System.out.println("Libra -> Real "+ converterValor*real);
-//
-//        }else {
-//            System.out.println("Valor Invalido!");
-//        }
-//    }
-
 }}
